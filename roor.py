@@ -4,7 +4,7 @@ def my_superfunction():
 
 
 def my_superfunction():
-    print('What an awesome print!')
+    print('What an awesome print! Yeah')
 
 
 def main():
